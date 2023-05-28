@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECTS\\market\\web\\Market\\Market\\Market.csproj",
-      "projectName": "Market",
-      "projectPath": "D:\\PROJECTS\\market\\web\\Market\\Market\\Market.csproj",
+      "projectUniqueName": "D:\\PROJECTS\\market\\web\\Market\\EntityLayer\\EntityLayer.csproj",
+      "projectName": "EntityLayer",
+      "projectPath": "D:\\PROJECTS\\market\\web\\Market\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECTS\\market\\web\\Market\\Market\\obj\\",
+      "outputPath": "D:\\PROJECTS\\market\\web\\Market\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2034,7 +2034,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2086,9 +2085,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

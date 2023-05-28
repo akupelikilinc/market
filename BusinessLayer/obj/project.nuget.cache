@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pc7EzZJZWZ6vAvCjVkGZ7GG8jen1NESg2gOOQHNdc+fm7C2qtCazMaha3ubZNeptoKkNf0cKA4RyG/WUaTJsSA==",
+  "dgSpecHash": "YmmarJW8m82lQpihxxdrCJoHjLdgBbjvbg9EW6yvr7rpjPXeamjz2SYrtBBxR3k6jGchKAbeUADT2zr9BmsPiQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJECTS\\market\\web\\Market\\Market\\Market.csproj",
+  "projectFilePath": "D:\\PROJECTS\\market\\web\\Market\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Root\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Root\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
